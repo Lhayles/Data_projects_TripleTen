@@ -1,2 +1,9 @@
 # Data_projects_TripleTen
-Projects worked on in business analytics
+Projects I  worked on in the  business intelligence analytics program
+
+| Project number | Title | Description |
+| :-----------: | ----------- |----------- |
+| 1 | Business Analytics project| The project task was to analyze website transaction events along with rentention rates. |
+| 2 | Superstore Economics | The Tableau project was to analyze Superstores operations and give insights on increasing profits.
+| 3 | Superstore returns| This presentation was focused on the analysis of high volume of returns and potential reasons for customers returning their orders. |
+| 4 | Shopify App variance | This Power BI project was focused on what key factors influenced the success of Shopify. |

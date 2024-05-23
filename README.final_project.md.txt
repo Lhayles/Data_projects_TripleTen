@@ -1,4 +1,6 @@
-Viewing for the final project from tableau is addressed in the website, it should be sheets along with dashboards.  Below is the link for the workbook.
+This project was my final BIA task; my focus of the buiness problem was directed towards resturant popularity and the revenue generation.  Insights are gleamed from the visualzations utilized through the use of Tableau.
+
+Below is the link for the workbook.
 
 https://public.tableau.com/app/profile/liam.hayles/viz/Finalprojectrestaurantanalysis/GeoRatingCuisine?publish=yes
 
